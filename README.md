@@ -20,10 +20,11 @@ A customizable cyber-style terminal interface for Termux.
 ```bash
 pkg update -y
 pkg install git bash coreutils -y
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone 
 cd RR-CYBER-TERMINAL
 bash install.sh
 rrcyber
+```
 
 
 🎮 Commands
