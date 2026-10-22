@@ -15,14 +15,16 @@ A customizable cyber-style terminal interface for Termux.
 - 📢 Telegram community link
 - 🛠️ Simple installation script
 
-📦 Installation
+## Installation
 
+```bash
 pkg update -y
 pkg install git bash coreutils -y
-git clone https://github.com/BLACK-EPOCH/RR-CYBER-TERMINAL.git
+git clone YOUR_GITHUB_REPOSITORY_URL
 cd RR-CYBER-TERMINAL
 bash install.sh
 rrcyber
+
 
 🎮 Commands
 
