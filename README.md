@@ -2,8 +2,7 @@
 
 A customizable cyber-style terminal interface for Termux.
 
-📸 Screenshot
-
+# Image
 <p align="center">
   <img src="https://github.com/BLACK-EPOCH/RR-CYBER-TERMINAL/blob/66e9ead51b69d34b7e3482a8f1448d0e2db4f5d8/file_000000009db48211869673a88e1e3094.png?raw=true" alt="RR CYBER TERMINAL Screenshot" width="100%">
 </p>✨ Features
