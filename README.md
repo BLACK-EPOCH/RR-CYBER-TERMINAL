@@ -20,7 +20,7 @@ A customizable cyber-style terminal interface for Termux.
 ```bash
 pkg update -y
 pkg install git bash coreutils -y
-git clone 
+git clone https://github.com/BLACK-EPOCH/RR-CYBER-TERMINAL.git
 cd RR-CYBER-TERMINAL
 bash install.sh
 rrcyber
